@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Build output
+app/dist/
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Test
+coverage/
+
+# Temp
+*.tmp
+*.temp
+
+# Archives
+*.zip
+
+# SSH keys
+*.pem
+*_key
+
+# Backup
+bak/
